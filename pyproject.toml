@@ -1,0 +1,14 @@
+[project]
+name = "queuetools"
+description = "Nodes:load images (queue tools). tools made for queueing in comfyUI"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/qwixiwp/queuetools"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "queuetools"
+Icon = ""
